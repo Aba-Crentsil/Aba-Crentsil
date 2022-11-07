@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - crentsilaba0@gmail.com
-- crentsilaba3@gmail.com
 
 <!---
 Aba-Crentsil/Aba-Crentsil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
